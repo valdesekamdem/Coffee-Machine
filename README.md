@@ -1,2 +1,2 @@
 # Coffee Machine
-## Learning Kotlin path
+## Kotlin Learning path
